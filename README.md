@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Miles1021
-- 👀 I’m interested in html/css/js
-- 🌱 I’m currently learning python
+
 - Примеры макетов находятся в папках project_1 и project_2
 
 
